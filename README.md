@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulepops
 - 👀 I’m interested in web design and development with an emphasis on accessible responsive design.
 - 🌱 I’m currently learning NODE.js, with Express and MongoDB
-- 💞️ I’m looking to collaborate on nothing at the moment!
+- 💞️ I’m retired now, so just a hobby developer - I'm not looking to collaborate at the moment!
 - 📫 Send me a message and I'll say hello!
 
 <!---
