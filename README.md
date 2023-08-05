@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paulepops
 - 👀 I’m interested in web design and development with an emphasis on accessible responsive design.
 - 💞️ I’m retired now, so just a hobby developer - I'm not looking to collaborate at the moment!
-- 📫 Send me a message and I'll say hello!
 
 <!---
 Paulepops/paulepops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
